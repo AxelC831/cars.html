@@ -2,3 +2,16 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  color: darkred;
+  text-align: center;
+} 
+
+p {
+  width: 70%;
+  background-color: skyblue;
+  color: black;
+  text-align: center;
+}
+
