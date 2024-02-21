@@ -3,19 +3,42 @@ html {
   width: 100%;
 }
 
-h1 {
-  color: darkred;
-  text-align: center;
-} 
+
+  h1{text-align: center;
+    }
+
+
+ul{ 
+   border: 5px solid gray;
+  padding: 5px;
+  margin: 5px;
+  word-spacing: 10px;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+a{
+  color: black;
+}
+
+text-align:center;
+  }
+
+
+li {
+  display: inline;
+       }
 
 p {
   width: 70%;
   background-color: skyblue;
   color: black;
-  text-align: center;
+  } 
+
+body{
+  background-color: skyblue;
 }
-/* img
- */
+
 
 
 
