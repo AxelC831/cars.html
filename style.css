@@ -30,7 +30,6 @@ ul {
   a {
     color: #ffffff;
   }
-
  
 
 li {
@@ -50,4 +49,15 @@ body {
 
 nav {
   background-color: #12070c;
+}
+
+
+img { transition: all .2s ease-in-out; }
+img:hover { transform: scale(1.1); }
+
+
+img {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
 }
